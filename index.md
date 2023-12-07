@@ -7,7 +7,7 @@
 This is my home page! My name is Anthony Ceja, and I am a student at Cal State Fullerton. My major is computer engineering.
 
 ## Computer Science Projects
-My GitHub page is (https://github.com/antcej711) (antcej711.github.io)
+My GitHub page is [https://github.com/antcej711](https://github.com/antcej711)
 
 ## Favorite CPSC 120L Labs 
 
